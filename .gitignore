@@ -20,3 +20,10 @@ mono_crash.*.json
 .directory
 .DS_Store
 *~
+*.import
+*.import
+2d/physics_platformer/audio/sound_shoot.wav.import
+2d/physics_platformer/audio/sound_jump.wav.import
+2d/physics_platformer/audio/sound_hit.wav.import
+2d/physics_platformer/audio/sound_explode.wav.import
+2d/physics_platformer/audio/sound_coin.wav.import
